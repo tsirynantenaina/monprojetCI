@@ -5,4 +5,3 @@ importer projetci.sql
 Authentification:
 --->Nom d'utilisateur: admin
 --->Mot de passe: admin
- Developper par moi
